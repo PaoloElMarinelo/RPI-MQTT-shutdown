@@ -4,7 +4,7 @@ It will also send the host connection status ("Online" or "Offline") to the brok
 
 Install Paho-mqtt if not already installed:
 
-`sudo pip install paho-mqtt`
+`sudo apt-get install python3-paho-mqtt`
 
 Get the files:
 
